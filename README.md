@@ -4,9 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Trabalho atualmente na area de contabilidade com programa desenvolvido em VBA para Excel.
-- 🌱 I’m currently learning ...
-
 <div align="center">
   <a href="https://github.com/Jenkidamaa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenkidamaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
