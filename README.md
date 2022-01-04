@@ -16,6 +16,7 @@
   <img align="center" alt="Jenkidama" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   
   <img align="center" alt="Jenkidama" height="45" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 </div>
 
   ##
