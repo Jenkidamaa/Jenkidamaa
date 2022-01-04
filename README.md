@@ -30,8 +30,5 @@
  </div>
   
   
- # Contributions
-(in the last 365 days)
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 
