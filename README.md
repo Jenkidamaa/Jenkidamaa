@@ -29,5 +29,3 @@
   <a href = "mailto:carlos.isaque.23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
- (in the last 365 days)
-![](./profile-3d-contrib/profile-green-animate.svg)
