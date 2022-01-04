@@ -1,7 +1,4 @@
-# Olá, seja bem vindo !
-# Hello welcome !
-# Hallo, willkommen !
-# 你好，歡迎 ！
+# Olá, seja bem vindo !; Hello welcome !; Hallo, willkommen !; 你好，歡迎 ！
 
 
 <div align="center">
