@@ -28,4 +28,10 @@
   <a href="https://www.youtube.com/user/TheJenkidama " target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlos.isaque.23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+  
+  
+ # Contributions
+(in the last 365 days)
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
