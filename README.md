@@ -1,5 +1,14 @@
 # Olá, seja bem vindo !| Hello welcome !| Hallo, willkommen !| 你好，歡迎 ！
 
+💻 Im a Software Developer.
+
+📚 Studying software architecture at the moment.
+
+😋 Programming is delicious.
+
+💬 Ask me about Python (Pandas, Numpy, PyTorch, OpenPyXl), Vba for Excel, Web Scraping with Python and C.
+
+🥳 You are my friend now.
 
 <div align="center">
   <a href="https://github.com/Jenkidamaa">
