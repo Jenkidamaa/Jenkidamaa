@@ -6,7 +6,7 @@
 
 😋 Programming is delicious.
 
-💬 Ask me about Python (Pandas, Numpy, PyTorch, OpenPyXl), Vba for Excel, Web Scraping with Python and C.
+💬 Ask me about Python (Pandas, Numpy, PyTorch, OpenPyXl and BeautifulSoup 4), Vba for Excel, Web Scraping and C.
 
 🥳 You are my friend now.
 
