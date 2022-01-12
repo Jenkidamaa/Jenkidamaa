@@ -1,5 +1,7 @@
 # Olá, seja bem vindo !| Hello welcome !| Hallo, willkommen !| 你好，歡迎 ！
 
+# working like there's no tomorrow.
+
 💻 Im a Software Developer.
 
 📚 Studying software architecture at the moment.
