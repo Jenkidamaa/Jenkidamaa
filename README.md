@@ -2,7 +2,7 @@
 
 # working like there's no tomorrow.
 
-### 'A computer is a great orchestra of components and the clock is the conductor' - Akita, Fabio
+**_Negrito e itálico_** 'A computer is a great orchestra of components and the clock is the conductor' - Akita, Fabio
 
 
 
