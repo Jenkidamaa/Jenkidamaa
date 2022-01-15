@@ -2,6 +2,10 @@
 
 # working like there's no tomorrow.
 
+#'A computer is a great orchestra of components and the clock is the conductor'
+- Akita, Fabio
+
+
 💻 Im a Software Developer.
 
 📚 Studying software architecture at the moment.
@@ -26,11 +30,7 @@
   
   <img align="center" alt="Jenkidama" height="45" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   
-</div>
-
-  ##
-  
-  
+</div>  
 <div>
 
   <a href="https://www.linkedin.com/in/carlos-isaque-silva-5a1837116" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -39,7 +39,5 @@
  </div>
  
  
-#'A computer is a great orchestra of components and the clock is the conductor'
-- Akita, Fabio
 
 
