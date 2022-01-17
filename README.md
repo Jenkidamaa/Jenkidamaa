@@ -38,6 +38,13 @@
   <a href = "mailto:carlos.isaque.23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- 
+<p align="center"> 
+
+ ## Total de visitas no meu perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Jenkidamaa/count.svg" />
+ </p>
+
+</p>
 
 
