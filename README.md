@@ -16,17 +16,5 @@
 
 🥳 You are my friend now.
 
-<div align="center">
-  <a href="https://github.com/Jenkidamaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jenkidamaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenkidamaa&layout=compact&langs_count=7&theme=dark"/> 
-<p align="center"> 
-
- ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Jenkidamaa/count.svg" />
- </p>
-
-</p>
 
 
